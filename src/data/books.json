@@ -1,0 +1,191 @@
+[
+  {
+    "id": 0,
+    "title": "The Happy Lemon",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "SAGE ISAIS",
+    "image": "/books/the_happy_lemon.webp",
+    "genre": ["romance", "fiction"],
+    "pages": 250
+  },
+  {
+    "id": 1,
+    "title": "Amster Hamster Trip",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "JAMES HOFFMAN",
+    "image": "/books/amster_hamster_trip.jpg",
+    "genre": ["history", "literature"],
+    "pages": 250
+  },
+  {
+    "id": 2,
+    "title": "Fantacy Story Telling",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "ADAMS STRASS",
+    "image": "/books/fantacy_story_telling.jpg",
+    "genre": ["fantasy", "thriller"],
+    "pages": 250
+  },
+  {
+    "id": 3,
+    "title": "Symphony of Trilogy",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "JESSICA JOHNSON",
+    "image": "/books/symphony_of_trillogy.jpg",
+    "genre": ["art"],
+    "pages": 250
+  },
+  {
+    "id": 4,
+    "title": "The Young Wizard",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "ESTEBAN IBARRA",
+    "image": "/books/the_young_wizzard.webp",
+    "genre": ["mystery","fantasy", "sci-fi"],
+    "pages": 250
+  },
+  {
+    "id": 5,
+    "title": "Wellness & Paradise",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "JANE DOE",
+    "image": "/books/wellness_paradise.jpg",
+    "genre": ["literature"],
+    "pages": 250
+  },
+  {
+    "id": 6,
+    "title": "With Skin Like Daffodils",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "ERICK MARTIN",
+    "image": "/books/with_skin_like_daffodils.webp",
+    "genre": ["romance"],
+    "pages": 250
+  },
+  {
+    "id": 7,
+    "title": "Renaissance",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "JAMES HOFFMAN",
+    "image": "/books/renaissance.jpg",
+    "genre": ["literature"],
+    "pages": 250
+  },
+  {
+    "id": 8,
+    "title": "Donate a Book",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "JAMES DYLAN",
+    "image": "/books/donate_a_book.webp",
+    "genre": ["history"],
+    "pages": 250
+  },
+  {
+    "id": 9,
+    "title": "When the Stars Align",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "SAGE ISAIS",
+    "image": "/books/when_the_star_align.webp",
+    "genre": ["fiction"],
+    "pages": 250
+  },
+  {
+    "id": 10,
+    "title": "Learn to Love Yourself",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "JESICCA JOHNSON",
+    "image": "/books/learn_to_love_yourself.jpg",
+    "genre": ["art", "mystery"],
+    "pages": 250
+  },
+  {
+    "id": 11,
+    "title": "The Stadium by Night",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "ERICK MARTIN",
+    "image": "/books/the_stadium_by_night.webp",
+    "genre": ["fantasy","fiction"],
+    "pages": 250
+  },
+  {
+    "id": 12,
+    "title": "Tunnel of Mirrors",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "FERNE ARFIN",
+    "genre": ["fiction"],
+    "image": "/books/tunnel_of_mirrors.jpg",
+    "pages": 250
+  },
+  {
+    "id": 13,
+    "title": "I Ate One Hundred",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "BILL SUGRUE",
+    "image": "/books/i_ate_one_hundred.jpg",
+    "genre": ["adventure"],
+    "pages": 250
+  },
+  {
+    "id": 14,
+    "title": "Rieden Reece and the Final Flower",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "MATT GUZMAN",
+    "image": "/books/rieden_reece_and_the_final_flower.jpg",
+    "genre": ["adventure","children"],
+    "pages": 250
+  },
+  {
+    "id": 15,
+    "title": "Eternal Seas (The Relic Hunters)",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "LEXI REES",
+    "image": "/books/eternal_seas _(the_relic_hunters).jpg",
+    "genre": ["children"],
+    "pages": 250
+  },
+  {
+    "id": 16,
+    "title": "The Hawkman",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "Jane Rosenberg LaForge",
+    "image": "/books/the_hawkman.jpg",
+    "genre": ["fairy tale", "fantasy"],
+    "pages": 250
+  },
+  {
+    "id": 17,
+    "title": "The Island",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "USHER EVANS",
+    "image": "/books/the_island.jpg",
+    "genre": ["fiction"],
+    "pages": 250
+  },
+  {
+    "id": 18,
+    "title": "Fabler",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "Esther Lawton",
+    "image": "/books/fabler.jpg",
+    "genre": ["fairy tale", "fiction"],
+    "pages": 250
+  },
+  {
+    "id": 19,
+    "title": "Eamon in the Library",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "Guy Petilli",
+    "image": "/books/eamon_in_the_library.jpg",
+    "genre": ["fantasy"],
+    "pages": 250
+  },
+  {
+    "id": 20,
+    "title": "All Good Quest",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, qui ipsam voluptatibus nostrum, voluptas aperiam eveniet asperiores repellat quis possimus adipisci consequuntur eos eius error.",
+    "author": "JOE GRAVER",
+    "image": "/books/all_good_quest.jpg",
+    "genre": ["adventure"],
+    "pages": 250
+  }
+]
