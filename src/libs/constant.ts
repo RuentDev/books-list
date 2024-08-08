@@ -40,7 +40,7 @@ export const FILTERS = [
     isActive: false
   },
   {
-    id: 7, 
+    id: 8, 
     label: "fairy tale",
     isActive: false
   },

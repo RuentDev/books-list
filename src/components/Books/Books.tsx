@@ -22,7 +22,6 @@ const Books:FC<BooksProps> = ({books}) => {
 
   const handleFilterClick = (filter: string) => {
 
-    console.log(filter)
     setBooksData((prevState) => {
       const newState = books.filter((item) => {
 

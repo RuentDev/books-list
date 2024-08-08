@@ -11,8 +11,8 @@ interface ModalProps{
 const Modal: React.FC<ModalProps> = ({book, onOverlayClick}) => {
   return (
     <div onClick={onOverlayClick} className='modal w-full h-screen fixed z-50 top-0 left-0 bg-modalOverlay p-5 flex items-center justify-center'>
-      <div className="inner-container w-full h-[90%] md:h-[90%] lg:h-[90%] lg:w-[60%] bg-white rounded-2xl flex flex-col lg:flex-row overflow-hidden">
-        <div className="left-container relative w-full min-h-[300px] sm:full overflow-hidden">
+      <div className="inner-container md:h-[90%] lg:w-[60%] lg:h-[80%] bg-white rounded-2xl flex flex-col lg:flex-row overflow-hidden">
+        <div className="left-container relative w-full h-full overflow-hidden">
           <Image 
             width={1000}
             height={1000}
